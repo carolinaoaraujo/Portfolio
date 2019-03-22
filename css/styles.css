@@ -3,5 +3,9 @@ h1 {
 }
 
 .image-box {
-  max-width: 50px
+  max-width: 400px;
+}
+
+.about {
+  border: 2px solid green;
 }
