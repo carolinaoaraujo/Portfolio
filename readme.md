@@ -8,7 +8,7 @@
 
 _This is website shows abrief introduction of me and list my personal projects that I havo done at Epicodus._
 
-##GitHub Page
+## GitHub Page
 
 https://carolinaoaraujo.github.io/Portfolio/
 
