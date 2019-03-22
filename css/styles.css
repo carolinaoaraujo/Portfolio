@@ -1,16 +1,20 @@
 h1 {
-  color: pink;
+  color: black;
 }
 
 .image-box {
   max-width: 400px;
-  padding: 30px;
+  padding: 30px
 }
 
 .about {
-  border: 2px solid green;
+  border: 2px;
 }
 
 img{
   float:left;
+}
+
+.connect {
+  color: green;
 }
