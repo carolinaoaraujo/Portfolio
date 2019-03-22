@@ -9,3 +9,7 @@ h1 {
 .about {
   border: 2px solid green;
 }
+
+img{
+  float:left;
+}
