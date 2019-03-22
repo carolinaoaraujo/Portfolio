@@ -8,13 +8,14 @@
 
 _This is website shows abrief introduction of me and list my personal projects that I havo done at Epicodus._
 
+##GitHub Page
+
+https://carolinaoaraujo.github.io/Portfolio/
+
 ## Setup/Installation Requirements
 
 * _Clone the repository_
 * _Use the command open index.html_
-
-
-
 
 ## Support and contact details
 
